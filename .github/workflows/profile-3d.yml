@@ -1,9 +1,11 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
+  schedule:
     - cron: "0 18 * * *"
   workflow_dispatch:
+  permissions:
+    contents: write
 
 jobs:
   build:
@@ -21,6 +23,6 @@ jobs:
           git pull
           git config user.name ${{ github.repository_owner }}
           git config user.email "paulo.granthon@fatec.sp.gov.br"
-          git add -A .
+          git add .
           git commit -m "profile-3d"
           git push
