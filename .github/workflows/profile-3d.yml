@@ -23,6 +23,6 @@ jobs:
           git pull
           git config user.name ${{ github.repository_owner }}
           git config user.email "paulo.granthon@fatec.sp.gov.br"
-          git add .
+          git add -A .
           git commit -m "profile-3d"
           git push
