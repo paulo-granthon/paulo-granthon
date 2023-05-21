@@ -1,33 +1,39 @@
-### I'm a Full-Stack Developer and Database Technology student at FATEC São José dos Campos - Prof. Jessen Vidal.
-
 <div align="center">
-  <p>My trophies:</p>
-  <a href="#">
-    <img src="https://github-profile-trophy.vercel.app/?username=paulo-granthon&theme=radical&no-bg=true&no-frame=true&column=-1"/>
-  </a>
+  
+### ***I absolutely love programing!***   
+  
 </div>
 
+*Ever since my childhood, I have been captivated by technology, constantly questioning how the games I played, the websites I accessed, and other daily technologies were created. The intricate puzzle of designing, developing, and integrating all the components fascinated me. I was unwavering in my determination to unravel this magic and bring my own ideas to life, no matter the challenges I faced or the difficulties I encountered. Fuelled by curiosity and passion, I embarked on a journey of independent research and study, honing my skills and acquiring the necessary tools to make programming an integral part of my life.*  
+
+*Today, I stand on the path of turning my childhood dream into reality. I have come a long way, pursuing my university education while expanding my knowledge, building my portfolio, and advancing my career as a developer.*  
+
+*This profile showcases my latest personal projects and contributions, offering insights into my dedication, proficiency, and unwavering passion for technology and learning. Additionally, you will find informative statistics that provide further context and highlight the consistency and impact of my work.*  
+
+</br>
+
 <div align="center">
-  <p>My profile's all-time stats:</p>
+  <p>
+    
+**My trophies:**
+  
+  </p>
   <a href="#">
+    <img src="https://github-profile-trophy.vercel.app/?username=paulo-granthon&theme=radical&no-bg=true&no-frame=true&column=-1"/>
+
+  </br>
+  <p>
+
+**My profile's all-time stats:**
+  
+  </p>
     <img alt="All time statistics" height="180em" 
       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paulo-granthon&show_icons=true&count_private=true&theme=github_dark"/>
     <img alt="All time top languages I use" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paulo-granthon&layout=compact&langs_count=10&count_private=true&theme=github_dark"/>  
-  </a>
-</div>
 
-<div align="center">
-  <a href="#">
+</br>
     
-<!--   profile-green-animate -->
 ![Language frequency per commit 3D graph](./profile-3d-contrib/profile-night-view.svg)
-
-  </a>
-</div>
-
-
-<div align="center">
-  <a href="#">
 
 ![My github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=paulo-granthon&theme=high-contrast)
   
