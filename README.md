@@ -18,6 +18,12 @@
 ![](./profile-3d-contrib/profile-night-view.svg)
 
 
+<div align="center">
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=paulo-granthon&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+</div>
+
 <div style="display: inline_block">
   <p align="center">
     <a href=""><img alt="Rust" height="30" width="40" title="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"></a>
