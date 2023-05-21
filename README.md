@@ -18,21 +18,25 @@
 **My trophies:**
   
   </p>
-  <a href="#">
-    <img src="https://github-profile-trophy.vercel.app/?username=paulo-granthon&theme=radical&no-bg=true&no-frame=true&column=-1"/>
-
+    <a href="#">
+      <img src="https://github-profile-trophy.vercel.app/?username=paulo-granthon&theme=radical&no-bg=true&no-frame=true&column=-1"/>
+    </a>
   </br>
   <p>
 
 **My profile's all-time stats:**
   
   </p>
+  <a>
     <img alt="All time statistics" height="180em" 
       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paulo-granthon&show_icons=true&count_private=true&theme=github_dark"/>
     <img alt="All time top languages I use" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paulo-granthon&layout=compact&langs_count=10&count_private=true&theme=github_dark"/>  
-
+  </a>
+  
 </br>
-    
+ 
+  <a>
+  
 ![Language frequency per commit 3D graph](./profile-3d-contrib/profile-night-view.svg)
 
 ![My github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=paulo-granthon&theme=high-contrast)
