@@ -21,7 +21,7 @@
   
   </p>
 
-  <a href="#">
+  <a href="">
     <img src="https://github-profile-trophy.vercel.app/?username=paulo-granthon&theme=radical&no-bg=true&no-frame=true&column=-1"/img>
   </a>
 
@@ -32,7 +32,7 @@
 **My profile's all-time stats:**
 
   </p>
-  <a href="#">
+  <a href="">
     <img alt="All time statistics" height="180em"
       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paulo-granthon&show_icons=true&count_private=true&theme=github_dark"
     /img>
@@ -46,14 +46,14 @@
 </br>
 
 <div align="center">
-  <a href="#">
+  <a href="">
 
 ![Language frequency per commit 3D graph](./profile-3d-contrib/profile-night-view.svg)  
 
   </a>
 </div>
 <div align="center">
-  <a href="#">
+  <a href="">
 
 ![My github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=paulo-granthon&theme=high-contrast)  
   
@@ -62,7 +62,7 @@
 
 <div align="center">
   <p>Some of the technologies I'm confident working with:</p>
-    <a href="#">
+    <a href="">
       <img alt="Rust" height="30" width="40" title="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg">
       <img alt="C#" height="30" width="40" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
       <img alt="C++" height="30" width="40" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
