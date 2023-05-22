@@ -11,9 +11,7 @@
 *Today, I stand on the path of turning my childhood dream into reality. I have come a long way, pursuing my university education while expanding my knowledge, building my portfolio, and advancing my career as a developer.*  
 
 *This profile showcases my latest personal projects and contributions, offering insights into my dedication, proficiency, and unwavering passion for technology and learning. Additionally, you will find informative statistics that provide further context and highlight the consistency and impact of my work.*  
-
 </br>
-
 <div align="center">
   <p>
 
