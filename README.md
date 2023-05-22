@@ -36,6 +36,8 @@
     <img alt="All time statistics" height="180em"
       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paulo-granthon&show_icons=true&count_private=true&theme=github_dark"
     /img>
+  </a>
+  <a href="#">
     <img alt="All time top languages I use" height="180em"
       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paulo-granthon&layout=compact&langs_count=10&count_private=true&theme=github_dark"
     /img>
