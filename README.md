@@ -1,10 +1,6 @@
 <div>
 
-<p align="center">
-
-# ***I absolutely love programing!***
-
-</p>
+<h1 align="center"><b><i>I absolutely love programing!<i><b></h1>
 
 <img align="right" src=https://raw.githubusercontent.com/paulo-granthon/github-stats-transparent/output/generated/overview.svg>
 
