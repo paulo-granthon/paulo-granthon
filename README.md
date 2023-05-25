@@ -1,69 +1,50 @@
 <div>
+  <h1 align="center"><b><i>I absolutely love programing!</i></b></h1>
 
-<h1 align="center"><b><i>I absolutely love programing!<i><b></h1>
+  <img align="right" src=https://raw.githubusercontent.com/paulo-granthon/github-stats-transparent/output/generated/overview.svg>
 
-<img align="right" src=https://raw.githubusercontent.com/paulo-granthon/github-stats-transparent/output/generated/overview.svg>
-
-<p align="left">Ever since my childhood, I have been captivated by technology, constantly questioning how the games I played, the websites I accessed, and other daily technologies were created. The intricate puzzle of designing, developing, and integrating all the components fascinated me.</p>
-<p align="left">I was unwavering in my determination to unravel this magic and bring my own ideas to life, no matter the challenges I faced or the difficulties I encountered. Fuelled by curiosity and passion, I embarked on a journey of independent research and study, honing my skills and acquiring the necessary tools to make programming an integral part of my life.</p>
-<div align="right">
-<img align="right" src=https://raw.githubusercontent.com/paulo-granthon/github-stats-transparent/output/generated/languages.svg>
-<p align="left">Today, I stand on the path of turning my childhood dream into reality. I have come a long way, pursuing my university education while expanding my knowledge, building my portfolio, and advancing my career as a developer.</p>
-<p align="left">This profile showcases my latest personal projects and contributions, offering insights into my dedication, proficiency, and relentless passion for knowledge and technology. Additionally, you will find informative statistics that provide further context and highlight the consistency and impact of my work.</p>
+  <p align="left"><i>Ever since my childhood, I have been captivated by technology, constantly questioning how the games I played, the websites I accessed, and other daily technologies were created. The intricate puzzle of designing, developing, and integrating all the components fascinated me.</i></p>
+  <p align="left"><i>I was unwavering in my determination to unravel this magic and bring my own ideas to life, no matter the challenges I faced or the difficulties I encountered. Fuelled by curiosity and passion, I embarked on a journey of independent research and study, honing my skills and acquiring the necessary tools to make programming an integral part of my life.</i></p>
+  <img align="right" src=https://raw.githubusercontent.com/paulo-granthon/github-stats-transparent/output/generated/languages.svg>
+  <p align="left"><i>Today, I stand on the path of turning my childhood dream into reality. I have come a long way, pursuing my university education while expanding my knowledge, building my portfolio, and advancing my career as a developer.</i></p>
+  <p align="left"><i>This profile showcases my latest personal projects and contributions, offering insights into my dedication, proficiency, and relentless passion for knowledge and technology. Additionally, you will find informative statistics that provide further context and highlight the consistency and impact of my work.</i></p>
 </div>
 
-</div>
-</br>
+<!-- </br> -->
+
 <div align="center">
-  <p>
-
-**My trophies:**
-  
-  </p>
-
+  <h4><b>My trophies:</b></h4>
   <a href="#">
-    <img src="https://github-profile-trophy.vercel.app/?username=paulo-granthon&theme=radical&no-bg=true&no-frame=true&column=-1"/img>
+    <img src="https://github-profile-trophy.vercel.app/?username=paulo-granthon&theme=radical&no-bg=true&no-frame=true&column=-1">
   </a>
-
-  </br>
-
-<!--   <p>
-
-**My profile's all-time stats:**
-
-  </p>
+<!--   </br> -->
+<!--   <h3><i>My profile's all-time stats:</i></h3>
   <a href="#">
     <img alt="All time statistics" height="180em"
-      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paulo-granthon&show_icons=true&count_private=true&theme=github_dark"
-    /img>
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paulo-granthon&show_icons=true&count_private=true&theme=github_dark">
   </a>
   <a href="#">
     <img alt="All time top languages I use" height="180em"
-      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paulo-granthon&layout=compact&langs_count=10&count_private=true&theme=github_dark"
-    /img>
-  </a>
- -->
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paulo-granthon&layout=compact&langs_count=10&count_private=true&theme=github_dark">
+  </a> -->
 </div>
 
-</br>
+<!-- </br> -->
 
 <div align="center">
+  <h3><b>My Activity Charts:</b></h3>
   <a href="#">
-
-![Language frequency per commit 3D graph](./profile-3d-contrib/profile-night-view.svg)  
-
+    <img alt="Language frequency per commit 3D graph" src="./profile-3d-contrib/profile-night-view.svg">
   </a>
 </div>
 <div align="center">
   <a href="#">
-
-![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=paulo-granthon&theme=high-contrast)  
-  
+    <img alt="My github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=paulo-granthon&theme=high-contrast">
   </a>
 </div>
 
 <div align="center">
-  <p>Some of the technologies I'm confident working with:</p>
+  <h4><b>Some of the technologies I'm confident working with:<b></h4>
     <a href="#"><img alt="Rust" height="30" width="40" title="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"></a>
     <a href="#"><img alt="C#" height="30" width="40" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></a>
     <a href="#"><img alt="C++" height="30" width="40" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></a>
@@ -77,6 +58,6 @@
 </div>
 
 <div align="center">
-  <p>You can also find me in:</p>
+  <h4><b>You can also find me in:<b></h4>
   <a href="https://www.linkedin.com/in/paulo-granthon/"><img title="linkedin.com/in/paulo-granthon" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
