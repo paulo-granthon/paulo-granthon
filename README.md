@@ -32,7 +32,7 @@
 <!-- </br> -->
 
 <div align="center">
-  <h3><b>My Activity Charts:</b></h3>
+  <h4><b>My Activity Charts:</b></h4>
   <a href="#">
     <img alt="Language frequency per commit 3D graph" src="./profile-3d-contrib/profile-night-view.svg">
   </a>
