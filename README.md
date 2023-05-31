@@ -14,6 +14,7 @@
 
 <div align="center">
   <a href="#">
+    <img src="https://github-profile-trophy.vercel.app/?username=paulo-granthon&theme=radical&no-bg=true&no-frame=true&column=-1">
     <img alt="Language frequency per commit 3D graph" src="./profile-3d-contrib/profile-night-rainbow.svg">
     <img alt="My github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=paulo-granthon&theme=high-contrast">
   </a>
