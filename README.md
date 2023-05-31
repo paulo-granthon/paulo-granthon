@@ -10,34 +10,13 @@
   <p align="left"><i>This profile showcases my latest personal projects and contributions, offering insights into my dedication, proficiency, and relentless passion for knowledge and technology. Additionally, you will find informative statistics that provide further context and highlight the consistency and impact of my work.</i></p>
 </div>
 
-<!-- </br> -->
+</br>
 
+    
 <div align="center">
-  <h4><b>My trophies:</b></h4>
-  <a href="#">
-    <img src="https://github-profile-trophy.vercel.app/?username=paulo-granthon&theme=radical&no-bg=true&no-frame=true&column=-1">
-  </a>
-<!--   </br> -->
-<!--   <h3><i>My profile's all-time stats:</i></h3>
-  <a href="#">
-    <img alt="All time statistics" height="180em"
-      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paulo-granthon&show_icons=true&count_private=true&theme=github_dark">
-  </a>
-  <a href="#">
-    <img alt="All time top languages I use" height="180em"
-      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paulo-granthon&layout=compact&langs_count=10&count_private=true&theme=github_dark">
-  </a> -->
-</div>
-
-<!-- </br> -->
-
-<div align="center">
-  <h4><b>My Activity Charts:</b></h4>
   <a href="#">
     <img alt="Language frequency per commit 3D graph" src="./profile-3d-contrib/profile-night-rainbow.svg">
   </a>
-</div>
-<div align="center">
   <a href="#">
     <img alt="My github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=paulo-granthon&theme=high-contrast">
   </a>
@@ -58,6 +37,6 @@
 </div>
 
 <div align="center">
-  <h4><b>You can also find me in:<b></h4>
+  <h4><b>You can also find me on:<b></h4>
   <a href="https://www.linkedin.com/in/paulo-granthon/"><img title="linkedin.com/in/paulo-granthon" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
