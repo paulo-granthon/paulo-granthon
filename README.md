@@ -12,12 +12,9 @@
 
 </br>
 
-    
 <div align="center">
   <a href="#">
     <img alt="Language frequency per commit 3D graph" src="./profile-3d-contrib/profile-night-rainbow.svg">
-  </a>
-  <a href="#">
     <img alt="My github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=paulo-granthon&theme=high-contrast">
   </a>
 </div>
@@ -38,5 +35,7 @@
 
 <div align="center">
   <h4><b>You can also find me on:<b></h4>
-  <a href="https://www.linkedin.com/in/paulo-granthon/"><img title="linkedin.com/in/paulo-granthon" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/paulo-granthon">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
 </div>
