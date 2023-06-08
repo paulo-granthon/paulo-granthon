@@ -1,3 +1,6 @@
+<div align="center">
+  <a href="https://github.com/paulo-granthon/garca"><img alt="paulo-granthon/garca" title="Garca - GitHub Actions Rusty Cellular Automata. Check it out! :)" src="https://github.com/paulo-granthon/garca/blob/main/grid.svg"></a>
+</div>
 <div>
   <h1 align="center"><b><i>I absolutely love programing!</i></b></h1>
 
