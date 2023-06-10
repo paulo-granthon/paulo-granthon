@@ -4,11 +4,11 @@
 <div>
   <h1 align="center"><b><i>I absolutely love programing!</i></b></h1>
 
-  <img align="right" src=https://raw.githubusercontent.com/paulo-granthon/github-stats-transparent/output/generated/overview.svg>
+  <a href="#"><img align="right" src=https://raw.githubusercontent.com/paulo-granthon/github-stats-transparent/output/generated/overview.svg></a>
 
   <p align="left"><i>Ever since my childhood, I have been captivated by technology, constantly questioning how the games I played, the websites I accessed, and other daily technologies were created. The intricate puzzle of designing, developing, and integrating all the components fascinated me.</i></p>
   <p align="left"><i>I was unwavering in my determination to unravel this magic and bring my own ideas to life, no matter the challenges I faced or the difficulties I encountered. Fuelled by curiosity and passion, I embarked on a journey of independent research and study, honing my skills and acquiring the necessary tools to make programming an integral part of my life.</i></p>
-  <img align="right" src=https://raw.githubusercontent.com/paulo-granthon/github-stats-transparent/output/generated/languages.svg>
+  <a href="#"><img align="right" src=https://raw.githubusercontent.com/paulo-granthon/github-stats-transparent/output/generated/languages.svg></a>
   <p align="left"><i>Today, I stand on the path of turning my childhood dream into reality. I have come a long way, pursuing my university education while expanding my knowledge, building my portfolio, and advancing my career as a developer.</i></p>
   <p align="left"><i>This profile showcases my latest personal projects and contributions, offering insights into my dedication, proficiency, and relentless passion for knowledge and technology. Additionally, you will find informative statistics that provide further context and highlight the consistency and impact of my work.</i></p>
 </div>
