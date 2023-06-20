@@ -1,5 +1,5 @@
 <div>
-    <h1 align="center"><b><i>I absolutely love programing!</i></b></h1>
+    <h1 align="center"><b><i>I absolutely love programming!</i></b></h1>
     <a href="#"><img align="right" src=https://raw.githubusercontent.com/paulo-granthon/github-stats-transparent/output/generated/overview.svg></a>
     <p align="left"><i>Ever since my childhood, I have been captivated by technology, constantly questioning how the games I played, the websites I accessed, and other daily technologies were created. The intricate puzzle of designing, developing, and integrating all the components fascinated me.</i></p>
     <p align="left"><i>I was unwavering in my determination to unravel this magic and bring my own ideas to life, no matter the challenges I faced or the difficulties I encountered. Fuelled by curiosity and passion, I embarked on a journey of independent research and study, honing my skills and acquiring the necessary tools to make programming an integral part of my life.</i></p>
@@ -12,11 +12,11 @@
   <a href="#">
     <img src="https://github-profile-trophy.vercel.app/?username=paulo-granthon&theme=discord&no-bg=true&no-frame=true&column=-1">
     <img alt="Language frequency per commit 3D graph" src="./profile-3d-contrib/profile-night-rainbow.svg">
-    <img alt="My github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=paulo-granthon&theme=high-contrast">
+    <img alt="My GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=paulo-granthon&theme=high-contrast">
   </a>
 </div>
 <div align="center">
-  <h4><b>Some of the technologies I'm confident working with:<b></h4>
+  <h3><b>Some of the technologies I'm confident working with:<b></h3>
     <img alt="Languages" src="https://skillicons.dev/icons?i=rust,py,cs,cpp,java,js,html,css,bash&theme=dark">
     <img alt="Frameworks" src="https://skillicons.dev/icons?i=django,bevy&theme=dark">
     <img alt="Database" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&theme=dark">
