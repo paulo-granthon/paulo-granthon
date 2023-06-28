@@ -17,10 +17,10 @@
 </div>
 <div align="center">
   <h3><b>Some of the technologies I'm confident working with:<b></h3>
-    <img alt="Languages" src="https://skillicons.dev/icons?i=rust,py,cs,cpp,java,js,html,css,bash&theme=dark">
+    <img alt="Languages" src="https://skillicons.dev/icons?i=rust,py,cs,cpp,java,js,html,css,bash,lua&theme=dark">
     <img alt="Frameworks" src="https://skillicons.dev/icons?i=django,bevy&theme=dark">
     <img alt="Database" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&theme=dark">
-    <img alt="Other" src="https://skillicons.dev/icons?i=wasm,regex,git,github,githubactions,md,blender,unity,figma&theme=dark">
+    <img alt="Other" src="https://skillicons.dev/icons?i=neovim,wasm,regex,git,github,githubactions,md,blender,unity,figma&theme=dark">
 </div>
 <hr>
 <div align="center">
