@@ -16,15 +16,16 @@
   </a>
 </div>
 <div align="center">
-  <h3><b>Some of the technologies I'm confident working with:<b></h3>
     <h3 align="center">Languages</h3>
     <img alt="Languages" src="https://skillicons.dev/icons?i=rust,py,cs,cpp,java,ts,js,html,css,bash,lua&theme=dark">
     <h3 align="center">Frameworks</h3>
     <img alt="Frameworks" src="https://skillicons.dev/icons?i=nodejs,vue,react,django,bevy&theme=dark">
     <h3 align="center">Database</h3>
-    <img alt="Database" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&theme=dark">
+    <img alt="Database" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,dynamodb,sqlite&theme=dark">
+    <h3 align="center">Tools</h3>
+    <img alt="Other" src="https://skillicons.dev/icons?i=neovim,github,blender,unity,figma&theme=dark">
     <h3 align="center">Other</h3>
-    <img alt="Other" src="https://skillicons.dev/icons?i=neovim,wasm,regex,git,github,githubactions,md,blender,unity,figma&theme=dark">
+    <img alt="Other" src="https://skillicons.dev/icons?i=wasm,regex,git,githubactions,md&theme=dark">
 </div>
 <hr>
 <div align="center">
