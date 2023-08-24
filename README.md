@@ -17,7 +17,7 @@
 </div>
 <div align="center">
     <h3 align="center">Languages</h3>
-    <img alt="Languages" src="https://skillicons.dev/icons?i=rust,py,cs,cpp,java,ts,js,html,css,bash,lua&theme=dark">
+    <img alt="Languages" src="https://skillicons.dev/icons?i=rust,py,cs,c,cpp,java,ts,js,html,css,bash,lua&theme=dark">
     <h3 align="center">Frameworks</h3>
     <img alt="Frameworks" src="https://skillicons.dev/icons?i=nodejs,vue,react,django,bevy&theme=dark">
     <h3 align="center">Database</h3>
