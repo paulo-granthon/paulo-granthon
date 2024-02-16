@@ -16,15 +16,15 @@
   </a>
 </div>
 <div align="center">
-    <h3 align="center">Languages</h3>
+    <h4 align="center">Languages</h4>
     <img alt="Languages" src="https://skillicons.dev/icons?i=rust,py,cs,c,cpp,java,ts,js,html,css,bash,lua,go,ocaml&theme=dark">
-    <h3 align="center">Frameworks</h3>
+    <h4 align="center">Frameworks</h4>
     <img alt="Frameworks" src="https://skillicons.dev/icons?i=rocket,nodejs,express,react,vue,jest,dotnet,django,bevy,spring,hibernate&theme=dark">
-    <h3 align="center">Database</h3>
+    <h4 align="center">Database</h4>
     <img alt="Database" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,dynamodb,sqlite&theme=dark">
-    <h3 align="center">Tools</h3>
+    <h4 align="center">Tools</h4>
     <img alt="Tools" src="https://skillicons.dev/icons?i=vim,neovim,github,docker,nginx,vite,blender,unity,figma&theme=dark">
-    <h3 align="center">Other</h3>
+    <h4 align="center">Other</h4>
     <img alt="Other" src="https://skillicons.dev/icons?i=linux,wasm,redux,regex,git,githubactions,md,aws,vercel&theme=dark">
 </div>
 <hr>
