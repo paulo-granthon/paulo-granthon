@@ -17,15 +17,15 @@
 </div>
 <div align="center">
     <h3 align="center">Languages</h3>
-    <img alt="Languages" src="https://skillicons.dev/icons?i=rust,py,cs,c,cpp,java,ts,js,html,css,bash,lua&theme=dark">
+    <img alt="Languages" src="https://skillicons.dev/icons?i=rust,py,cs,c,cpp,java,ts,js,html,css,bash,lua,go,ocaml&theme=dark">
     <h3 align="center">Frameworks</h3>
-    <img alt="Frameworks" src="https://skillicons.dev/icons?i=nodejs,vue,react,django,bevy&theme=dark">
+    <img alt="Frameworks" src="https://skillicons.dev/icons?i=rocket,nodejs,express,react,vue,jest,dotnet,django,bevy,spring,hibernate&theme=dark">
     <h3 align="center">Database</h3>
     <img alt="Database" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,dynamodb,sqlite&theme=dark">
     <h3 align="center">Tools</h3>
-    <img alt="Other" src="https://skillicons.dev/icons?i=neovim,github,blender,unity,figma&theme=dark">
+    <img alt="Tools" src="https://skillicons.dev/icons?i=vim,neovim,github,docker,nginx,vite,blender,unity,figma&theme=dark">
     <h3 align="center">Other</h3>
-    <img alt="Other" src="https://skillicons.dev/icons?i=wasm,regex,git,githubactions,md&theme=dark">
+    <img alt="Other" src="https://skillicons.dev/icons?i=linux,wasm,redux,regex,git,githubactions,md,aws,vercel&theme=dark">
 </div>
 <hr>
 <div align="center">
