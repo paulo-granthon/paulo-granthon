@@ -1,7 +1,7 @@
 <div>
     <h1 align="left">
         <b><i>I absolutely love programming!</i></b>
-        <a href="#"></ad><img align="right" alt="Visitor Count" src="https://profile-counter.glitch.me/paulo-granthon/count.svg"></a>
+        <p align="left"><a href="#"><img align="right" alt="Visitor Count" src="https://profile-counter.glitch.me/paulo-granthon/count.svg"></a></p>
     </h1>
     <a href="#"><img align="right" src=https://raw.githubusercontent.com/paulo-granthon/github-stats-transparent/output/generated/overview.svg></a>
     <p align="left"><i>Ever since my childhood, I have been captivated by technology, constantly questioning how the games I played, the websites I accessed, and other daily technologies were created. The intricate puzzle of designing, developing, and integrating all the components fascinated me.</i></p>
