@@ -16,7 +16,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=paulo-granthon&theme=discord&no-bg=true&no-frame=true&column=-1">
     <img alt="Language frequency per commit 3D graph" src="./profile-3d-contrib/profile-night-rainbow.svg">
     <img alt="My GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=paulo-granthon&theme=high-contrast">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=paulo-granthon&theme=highcontrast&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=1024&card_height=64&background=000000&fire=EBCD00&ring=E504EB&currStreakLabel=EBEBEB">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=paulo-granthon&theme=highcontrast&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=1024&card_height=64&background=000000&fire=EBCD00&ring=E504EB&currStreakLabel=EBEBEB">
     <h4 align="center">Languages</h4>
     <img alt="Languages" src="https://skillicons.dev/icons?i=rust,py,cs,c,cpp,java,ts,js,html,css,bash,lua,go,ocaml&theme=dark">
     <h4 align="center">Frameworks</h4>
