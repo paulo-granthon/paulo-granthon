@@ -60,17 +60,20 @@
     <h4 align="center">Languages</h4>
     <img alt="Languages"
       src="https://skillicons.dev/icons?i=rust,py,cs,c,cpp,java,ts,js,html,css,bash,lua,go,ocaml&theme=dark">
-    <h4 align="center">Frameworks</h4>
+    <h4 align="center">Frameworks and libs</h4>
     <img alt="Frameworks"
-      src="https://skillicons.dev/icons?i=rocket,nodejs,express,react,vue,jest,dotnet,django,bevy,spring,hibernate&theme=dark">
+      src="https://skillicons.dev/icons?i=htmx,rocket,nodejs,express,react,vue,jest,redux,vite,tailwind,dotnet,django,bevy,spring,hibernate&theme=dark">
     <h4 align="center">Database</h4>
     <img alt="Database" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,dynamodb,sqlite&theme=dark">
     <h4 align="center">Tools</h4>
     <img alt="Tools"
-      src="https://skillicons.dev/icons?i=vim,neovim,github,docker,nginx,vite,blender,unity,figma&theme=dark">
+      src="https://skillicons.dev/icons?i=vim,neovim,github,blender,unity,figma&theme=dark">
+    <h4 align="center">Cloud</h4>
+    <img alt="Cloud"
+      src="https://skillicons.dev/icons?i=azure,aws,vercel&theme=dark">
     <h4 align="center">Other</h4>
     <img alt="Other"
-      src="https://skillicons.dev/icons?i=linux,wasm,redux,regex,git,githubactions,md,aws,vercel&theme=dark">
+      src="https://skillicons.dev/icons?i=arch,linux,docker,nginx,regex,git,githubactions,md&theme=dark">
   </a>
 </div>
 <hr/>
