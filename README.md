@@ -2,9 +2,7 @@
   <h1 align="left">
     <b><i>I absolutely love programming!</i></b>
     <p align="left">
-      <a href="#">
-        <img align="right" alt="Visitor Count" src="https://profile-counter.glitch.me/paulo-granthon/count.svg">
-      </a>
+      <img align="right" alt="Visitor Count" src="https://profile-counter.glitch.me/paulo-granthon/count.svg">
     </p>
   </h1>
   <a href="https://github.com/paulo-granthon/github-stats-transparent">
