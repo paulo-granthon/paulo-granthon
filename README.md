@@ -20,7 +20,7 @@
   <p align="left">
     <i>I was unwavering in my determination to unravel this magic and bring my own ideas to life, no
       matter the challenges I faced or the difficulties I encountered. Fuelled by curiosity and passion, I embarked on a
-      journey of independent research and study, honing my skills and acquiring the necessary tools to make programming
+      journey of independent research and study, acquiring the necessary skills and tools to make programming
       an integral part of my life.</i>
 
   </p>
